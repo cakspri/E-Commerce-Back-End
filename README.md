@@ -27,7 +27,7 @@ GIVEN a functional Express.js API
 ```
 
 ## DNB's SOLUTION:
-#### UNC Boot Camp Submission: 
+
 🗂️ [Github Repository](https://github.com/DionneNoellaBarretto/13-ObjectRelationalMapping-eCommerceBackEnd_usingExpress.jsMySQLAndSequelize)
 
 📰[Github Page](https://dionnenoellabarretto.github.io/13-ObjectRelationalMapping-eCommerceBackEnd_usingExpress.jsMySQLAndSequelize/)
